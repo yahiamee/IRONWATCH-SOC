@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-label="IRONWATCH SOC — designed by yahia hayder">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070d1c"/><stop offset="1" stop-color="#14263b"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#64ffda" stroke-opacity=".055"/></pattern></defs>
+<rect width="1440" height="480" rx="24" fill="url(#bg)"/><rect width="1440" height="480" fill="url(#grid)"/>
+<path d="M1110 76 1260 136V247C1260 331 1176 386 1110 416 1044 386 960 331 960 247V136Z" fill="#0d2433" stroke="#51f3cb" stroke-width="3"/>
+<circle cx="1110" cy="235" r="77" fill="none" stroke="#51f3cb" stroke-opacity=".25"/><circle cx="1110" cy="235" r="47" fill="none" stroke="#51f3cb" stroke-opacity=".5"/><path d="m1055 237 35 35 77-80" fill="none" stroke="#51f3cb" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="76" y="79" width="238" height="32" rx="16" fill="#153e40"/><text x="195" y="101" text-anchor="middle" fill="#72ffe0" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">AI SECURITY OPERATIONS</text>
+<text x="72" y="217" fill="#f2f7ff" font-family="Segoe UI,Arial,sans-serif" font-weight="800" font-size="86" letter-spacing="2">IRONWATCH</text>
+<text x="78" y="278" fill="#51f3cb" font-family="Segoe UI,Arial,sans-serif" font-weight="600" font-size="40" letter-spacing="14">SOC</text>
+<text x="78" y="334" fill="#b3c5da" font-family="Segoe UI,Arial,sans-serif" font-size="23">From security alerts to evidence-based decisions.</text>
+<path d="M78 367H800" stroke="#6e8daa" stroke-opacity=".25"/><text x="78" y="407" fill="#f2f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="19">DESIGNED BY <tspan fill="#51f3cb" font-weight="700">yahia hayder</tspan></text>
+<text x="1380" y="442" text-anchor="end" fill="#7796b0" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="2">ANALYZE / INVESTIGATE / RESPOND</text></svg>

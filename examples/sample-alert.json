@@ -1,0 +1,8 @@
+{
+  "alertName": "Suspicious PowerShell Execution",
+  "sourceIP": "192.168.1.50",
+  "destinationHost": "DC01",
+  "username": "Administrator",
+  "severity": "High",
+  "description": "Encoded PowerShell command executed with elevated privileges. Possible post-exploitation activity detected."
+}

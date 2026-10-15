@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# n8n local files
+*.sqlite
+
+# Node
+node_modules/
+
+# Local credentials and exports
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+# Empty duplicate extraction directory
+AI-SOC-Analyst-main/
+
+# Historical screenshots: local archive only
+images/workflow.png
+images/execution.png
+images/output.png
+dist/
