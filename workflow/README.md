@@ -4,7 +4,7 @@ This folder contains the exported n8n workflow used by the IRONWATCH SOC.
 
 ## File
 
-- **IRONWATCH-SOC.json** – Complete n8n workflow export.
+- **IRONWATCH-SOC.json**  -  Complete n8n workflow export.
 
 ## Workflow Overview
 

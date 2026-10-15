@@ -65,19 +65,19 @@ Processes the prompt using Google's Gemini model and returns a text incident ana
 
 Input Alert
 
-â†“
+ - 
 
 Structured JSON
 
-â†“
+ - 
 
 Prompt Engineering
 
-â†“
+ - 
 
 AI Analysis
 
-â†“
+ - 
 
 SOC Incident Report
 

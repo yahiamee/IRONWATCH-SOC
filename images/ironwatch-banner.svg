@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-label="IRONWATCH SOC — designed by yahia hayder">
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-label="IRONWATCH SOC  -  designed by yahia hayder">
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070d1c"/><stop offset="1" stop-color="#14263b"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#64ffda" stroke-opacity=".055"/></pattern></defs>
 <rect width="1440" height="480" rx="24" fill="url(#bg)"/><rect width="1440" height="480" fill="url(#grid)"/>
 <path d="M1110 76 1260 136V247C1260 331 1176 386 1110 416 1044 386 960 331 960 247V136Z" fill="#0d2433" stroke="#51f3cb" stroke-width="3"/>

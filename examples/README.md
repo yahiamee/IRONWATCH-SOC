@@ -6,11 +6,11 @@ These examples demonstrate how the workflow transforms a structured security ale
 
 ## Files
 
-- **sample-alert.md** â€“ Example security alert provided to the workflow.
-- **sample-analysis.md** â€“ Example AI-generated incident analysis.
+- **sample-alert.md**  -  Example security alert provided to the workflow.
+- **sample-analysis.md**  -  Example AI-generated incident analysis.
 
 These files are intended for demonstration purposes and do not represent real-world security incidents.
 
-- **sample-alert.json** — Machine-readable synthetic input matching Edit Fields.
+- **sample-alert.json**  -  Machine-readable synthetic input matching Edit Fields.
 
 The sample report is illustrative and is not a verified execution of this revision.

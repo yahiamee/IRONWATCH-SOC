@@ -16,8 +16,8 @@ Alert:
 
 Possible Mapping:
 
-- T1059 – Command and Scripting Interpreter
-- T1059.001 – PowerShell
+- T1059  -  Command and Scripting Interpreter
+- T1059.001  -  PowerShell
 
 These mappings are clearly presented as analytical assessments rather than confirmed findings.
 

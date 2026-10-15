@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/ironwatch-banner.svg" alt="IRONWATCH SOC â€” designed by yahia hayder" width="100%">
+<img src="images/ironwatch-banner.svg" alt="IRONWATCH SOC  -  designed by yahia hayder" width="100%">
 
 # IRONWATCH SOC
 
@@ -11,13 +11,13 @@
 ![Status](https://img.shields.io/badge/Status-Prototype-14B8A6?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-64748B?style=flat-square)
 
-[Quick start](#quick-start) آ· [Architecture](#architecture) آ· [Example report](examples/sample-analysis.md) آ· [Roadmap](docs/future-roadmap.md)
+[Quick start](#quick-start)  -  [Architecture](#architecture)  -  [Example report](examples/sample-analysis.md)  -  [Roadmap](docs/future-roadmap.md)
 
 </div>
 
 ---
 
-**AI-assisted security alert analysis ط¢آ· Designed and maintained by yahia hayder**
+**AI-assisted security alert analysis  -  Designed and maintained by yahia hayder**
 
 IRONWATCH SOC is an n8n workflow that sends a sample security alert to Google Gemini and requests an evidence-based incident analysis. It separates supplied details from assumptions, suggests MITRE ATT&CK mappings, and recommends investigation and containment steps for human review.
 
@@ -75,6 +75,6 @@ Alert fields are sent to the configured Google service. Use synthetic or approve
 
 ## Design and maintenance
 
-**yahia hayder** أ¢â‚¬â€‌ IRONWATCH SOC project identity, documentation, and modifications.
+**[yahia hayder](https://github.com/yahiamee)** - project design and maintenance.
 
 MIT licensed. See [Contributing](CONTRIBUTING.md), [Security](SECURITY.md), and [Changelog](CHANGELOG.md).

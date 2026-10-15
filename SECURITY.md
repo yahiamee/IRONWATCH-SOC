@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability related to this project, please do not publish it publicly before reporting it.
 
-Use the hosting platform’s private vulnerability reporting if the maintainer has enabled it, or an established private maintainer contact. A dedicated contact address has not been supplied. Do not post sensitive details in a public issue. Include:
+Use the hosting platform - s private vulnerability reporting if the maintainer has enabled it, or an established private maintainer contact. A dedicated contact address has not been supplied. Do not post sensitive details in a public issue. Include:
 
 - A description of the vulnerability
 - Steps to reproduce

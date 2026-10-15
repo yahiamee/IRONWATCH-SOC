@@ -4,7 +4,7 @@ All notable changes to this project will be documented here.
 
 ---
 
-## 1.1.0 — 2026-10-15
+## 1.1.0  -  2026-10-15
 
 - Renamed project to IRONWATCH SOC; design and maintenance: yahia hayder.
 - Corrected import paths, documentation, and sample report.

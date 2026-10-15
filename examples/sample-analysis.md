@@ -1,4 +1,4 @@
-# IRONWATCH SOC — Illustrative Incident Analysis
+# IRONWATCH SOC  -  Illustrative Incident Analysis
 
 Prepared for the project maintained by **yahia hayder**. This is an illustrative report for `sample-alert.json`, not a verified live execution.
 
@@ -16,7 +16,7 @@ Encoded execution could involve malicious scripting or legitimate administration
 
 ## 4. Possible MITRE ATT&CK Techniques
 
-T1059.001 — PowerShell is a candidate mapping based on the reported execution. T1059 is its parent category. Validate the command and context before confirming adversary behavior.
+T1059.001  -  PowerShell is a candidate mapping based on the reported execution. T1059 is its parent category. Validate the command and context before confirming adversary behavior.
 
 ## 5. Indicators of Compromise (IOCs)
 

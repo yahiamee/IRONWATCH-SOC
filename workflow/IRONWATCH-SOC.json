@@ -1,5 +1,5 @@
 {
-  "name": "IRONWATCH SOC — yahia hayder",
+  "name": "IRONWATCH SOC - yahia hayder",
   "nodes": [
     {
       "parameters": {},
@@ -10,7 +10,7 @@
         0
       ],
       "id": "219fd0e9-b353-41d0-809e-7a3791fc05e3",
-      "name": "When clicking ‘Execute workflow’"
+      "name": "When clicking \u2018Execute workflow\u2019"
     },
     {
       "parameters": {
@@ -96,7 +96,7 @@
   ],
   "pinData": {},
   "connections": {
-    "When clicking ‘Execute workflow’": {
+    "When clicking \u2018Execute workflow\u2019": {
       "main": [
         [
           {
